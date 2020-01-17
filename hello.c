@@ -6,5 +6,6 @@ Date: 01/14/2020
 
 int main(void)  {
      printf("My name is : Jay Patel\n");
+     printf("My major is Computer and Science");
      return 0;
 }
